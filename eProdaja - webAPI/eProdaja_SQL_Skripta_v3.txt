@@ -1,0 +1,36 @@
+GO
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE PROCEDURE [dbo].[esp_Proizvodi_Insert]
+(
+	@Naziv NVARCHAR (50),
+	@Sifra NVARCHAR (50),
+	@Cijena DECIMAL (10,2),
+	@VrstaID INT,
+	@JedinicaMjereID INT,
+	@Slika VARBINARY (MAX) = NULL,
+	@SlikaThumb VARBINARY (MAX) = NULL
+)
+AS
+    INSERT INTO Proizvodi (Naziv, Sifra, Cijena, VrstaID, JedinicaMjereID, Slika, SlikaThumb)
+	VALUES (@Naziv, @Sifra, @Cijena, @VrstaID, @JedinicaMjereID, @Slika, @SlikaThumb)
+
+	SELECT @@IDENTITY
+---------------------------------------------------------------------------------------------------------
+GO
+/****** Object:  StoredProcedure [dbo].[esp_Proizvodi_SelectByVrsta]    Script Date: 31.03.2017. 08:13:14 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE PROCEDURE [dbo].[esp_Proizvodi_SelectByVrsta]
+(
+	@VrstaID INT
+)
+AS
+    SELECT ProizvodID, T1.Naziv, Sifra, Cijena, T2.Naziv AS JedMjere, SlikaThumb, Status
+	FROM Proizvodi AS T1 INNER JOIN JediniceMjere AS T2
+	     ON T1.JedinicaMjereID = T2.JedinicaMjereID
+	WHERE VrstaID = @VrstaID

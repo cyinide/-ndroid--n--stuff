@@ -1,0 +1,283 @@
+c:\users\larisa dedović\documents\visual studio 2013\Projects\eProdaja\eProdaja_UI\bin\Debug\eProdaja_UI.exe.config
+c:\users\larisa dedović\documents\visual studio 2013\Projects\eProdaja\eProdaja_UI\bin\Debug\eProdaja_UI.exe
+c:\users\larisa dedović\documents\visual studio 2013\Projects\eProdaja\eProdaja_UI\bin\Debug\eProdaja_UI.pdb
+c:\users\larisa dedović\documents\visual studio 2013\Projects\eProdaja\eProdaja_UI\bin\Debug\eProdaja_API.dll
+c:\users\larisa dedović\documents\visual studio 2013\Projects\eProdaja\eProdaja_UI\bin\Debug\Newtonsoft.Json.dll
+c:\users\larisa dedović\documents\visual studio 2013\Projects\eProdaja\eProdaja_UI\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\larisa dedović\documents\visual studio 2013\Projects\eProdaja\eProdaja_UI\bin\Debug\System.Web.Http.dll
+c:\users\larisa dedović\documents\visual studio 2013\Projects\eProdaja\eProdaja_UI\bin\Debug\EntityFramework.dll
+c:\users\larisa dedović\documents\visual studio 2013\Projects\eProdaja\eProdaja_UI\bin\Debug\System.Web.Http.WebHost.dll
+c:\users\larisa dedović\documents\visual studio 2013\Projects\eProdaja\eProdaja_UI\bin\Debug\eProdaja_API.pdb
+c:\users\larisa dedović\documents\visual studio 2013\Projects\eProdaja\eProdaja_UI\bin\Debug\Newtonsoft.Json.xml
+c:\users\larisa dedović\documents\visual studio 2013\Projects\eProdaja\eProdaja_UI\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\larisa dedović\documents\visual studio 2013\Projects\eProdaja\eProdaja_UI\bin\Debug\System.Web.Http.xml
+c:\users\larisa dedović\documents\visual studio 2013\Projects\eProdaja\eProdaja_UI\bin\Debug\EntityFramework.xml
+c:\users\larisa dedović\documents\visual studio 2013\Projects\eProdaja\eProdaja_UI\bin\Debug\System.Web.Http.WebHost.xml
+c:\users\larisa dedović\documents\visual studio 2013\Projects\eProdaja\eProdaja_UI\obj\Debug\eProdaja_UI.csprojResolveAssemblyReference.cache
+c:\users\larisa dedović\documents\visual studio 2013\Projects\eProdaja\eProdaja_UI\obj\Debug\eProdaja_UI.Form1.resources
+c:\users\larisa dedović\documents\visual studio 2013\Projects\eProdaja\eProdaja_UI\obj\Debug\eProdaja_UI.Properties.Resources.resources
+c:\users\larisa dedović\documents\visual studio 2013\Projects\eProdaja\eProdaja_UI\obj\Debug\eProdaja_UI.csproj.GenerateResource.Cache
+c:\users\larisa dedović\documents\visual studio 2013\Projects\eProdaja\eProdaja_UI\obj\Debug\eProdaja_UI.exe
+c:\users\larisa dedović\documents\visual studio 2013\Projects\eProdaja\eProdaja_UI\obj\Debug\eProdaja_UI.pdb
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 2\eProdaja\eProdaja_UI\bin\Debug\eProdaja_UI.exe.config
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 2\eProdaja\eProdaja_UI\obj\Debug\eProdaja_UI.exe
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 2\eProdaja\eProdaja_UI\obj\Debug\eProdaja_UI.pdb
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 2\eProdaja\eProdaja_UI\bin\Debug\eProdaja_UI.exe
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 2\eProdaja\eProdaja_UI\bin\Debug\eProdaja_UI.pdb
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 2\eProdaja\eProdaja_UI\bin\Debug\eProdaja_API.dll
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 2\eProdaja\eProdaja_UI\bin\Debug\Newtonsoft.Json.dll
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 2\eProdaja\eProdaja_UI\bin\Debug\System.Net.Http.Formatting.dll
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 2\eProdaja\eProdaja_UI\bin\Debug\System.Web.Http.dll
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 2\eProdaja\eProdaja_UI\bin\Debug\EntityFramework.dll
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 2\eProdaja\eProdaja_UI\bin\Debug\System.Web.Http.WebHost.dll
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 2\eProdaja\eProdaja_UI\bin\Debug\eProdaja_API.pdb
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 2\eProdaja\eProdaja_UI\bin\Debug\Newtonsoft.Json.xml
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 2\eProdaja\eProdaja_UI\bin\Debug\System.Net.Http.Formatting.xml
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 2\eProdaja\eProdaja_UI\bin\Debug\System.Web.Http.xml
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 2\eProdaja\eProdaja_UI\bin\Debug\EntityFramework.xml
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 2\eProdaja\eProdaja_UI\bin\Debug\System.Web.Http.WebHost.xml
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 2\eProdaja\eProdaja_UI\obj\Debug\eProdaja_UI.csprojResolveAssemblyReference.cache
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 2\eProdaja\eProdaja_UI\obj\Debug\eProdaja_UI.KorisniciForm.resources
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 2\eProdaja\eProdaja_UI\obj\Debug\eProdaja_UI.Properties.Resources.resources
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 2\eProdaja\eProdaja_UI\obj\Debug\eProdaja_UI.csproj.GenerateResource.Cache
+D:\FIT Nastava\2014_2015\PeP_2014_5\Vjezbe 3\eProdaja\eProdaja_UI\bin\Debug\eProdaja_UI.exe.config
+D:\FIT Nastava\2014_2015\PeP_2014_5\Vjezbe 3\eProdaja\eProdaja_UI\obj\Debug\eProdaja_UI.exe
+D:\FIT Nastava\2014_2015\PeP_2014_5\Vjezbe 3\eProdaja\eProdaja_UI\obj\Debug\eProdaja_UI.pdb
+D:\FIT Nastava\2014_2015\PeP_2014_5\Vjezbe 3\eProdaja\eProdaja_UI\obj\Debug\eProdaja_UI.csprojResolveAssemblyReference.cache
+D:\FIT Nastava\2014_2015\PeP_2014_5\Vjezbe 3\eProdaja\eProdaja_UI\obj\Debug\eProdaja_UI.Properties.Resources.resources
+D:\FIT Nastava\2014_2015\PeP_2014_5\Vjezbe 3\eProdaja\eProdaja_UI\obj\Debug\eProdaja_UI.csproj.GenerateResource.Cache
+D:\FIT Nastava\2014_2015\PeP_2014_5\Vjezbe 3\eProdaja\eProdaja_UI\obj\Debug\eProdaja_UI.Users.IndexForm.resources
+D:\FIT Nastava\2014_2015\PeP_2014_5\Vjezbe 3\eProdaja\eProdaja_UI\obj\Debug\eProdaja_UI.Users.AddForm.resources
+D:\FIT Nastava\2014_2015\PeP_2014_5\Vjezbe 3\eProdaja\eProdaja_UI\bin\Debug\eProdaja_UI.exe
+D:\FIT Nastava\2014_2015\PeP_2014_5\Vjezbe 3\eProdaja\eProdaja_UI\bin\Debug\eProdaja_UI.pdb
+D:\FIT Nastava\2014_2015\PeP_2014_5\Vjezbe 3\eProdaja\eProdaja_UI\bin\Debug\eProdaja_API.dll
+D:\FIT Nastava\2014_2015\PeP_2014_5\Vjezbe 3\eProdaja\eProdaja_UI\bin\Debug\Newtonsoft.Json.dll
+D:\FIT Nastava\2014_2015\PeP_2014_5\Vjezbe 3\eProdaja\eProdaja_UI\bin\Debug\System.Net.Http.Formatting.dll
+D:\FIT Nastava\2014_2015\PeP_2014_5\Vjezbe 3\eProdaja\eProdaja_UI\bin\Debug\System.Web.Http.dll
+D:\FIT Nastava\2014_2015\PeP_2014_5\Vjezbe 3\eProdaja\eProdaja_UI\bin\Debug\EntityFramework.dll
+D:\FIT Nastava\2014_2015\PeP_2014_5\Vjezbe 3\eProdaja\eProdaja_UI\bin\Debug\System.Web.Http.WebHost.dll
+D:\FIT Nastava\2014_2015\PeP_2014_5\Vjezbe 3\eProdaja\eProdaja_UI\bin\Debug\eProdaja_API.pdb
+D:\FIT Nastava\2014_2015\PeP_2014_5\Vjezbe 3\eProdaja\eProdaja_UI\bin\Debug\Newtonsoft.Json.xml
+D:\FIT Nastava\2014_2015\PeP_2014_5\Vjezbe 3\eProdaja\eProdaja_UI\bin\Debug\System.Net.Http.Formatting.xml
+D:\FIT Nastava\2014_2015\PeP_2014_5\Vjezbe 3\eProdaja\eProdaja_UI\bin\Debug\System.Web.Http.xml
+D:\FIT Nastava\2014_2015\PeP_2014_5\Vjezbe 3\eProdaja\eProdaja_UI\bin\Debug\EntityFramework.xml
+D:\FIT Nastava\2014_2015\PeP_2014_5\Vjezbe 3\eProdaja\eProdaja_UI\bin\Debug\System.Web.Http.WebHost.xml
+D:\FIT Nastava\2014_2015\PeP_2014_5\Vjezbe 3\eProdaja\eProdaja_UI\obj\Debug\eProdaja_UI.LoginForm.resources
+D:\FIT Nastava\2014_2015\PeP_2014_5\Vjezbe 3\eProdaja\eProdaja_UI\obj\Debug\eProdaja_UI.MainForm.resources
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja\eProdaja_UI\bin\Debug\eProdaja_UI.exe.config
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja\eProdaja_UI\obj\Debug\eProdaja_UI.exe
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja\eProdaja_UI\obj\Debug\eProdaja_UI.pdb
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja\eProdaja_UI\bin\Debug\eProdaja_UI.exe
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja\eProdaja_UI\bin\Debug\eProdaja_UI.pdb
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja\eProdaja_UI\bin\Debug\eProdaja_API.dll
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja\eProdaja_UI\bin\Debug\Newtonsoft.Json.dll
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja\eProdaja_UI\bin\Debug\System.Net.Http.Formatting.dll
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja\eProdaja_UI\bin\Debug\System.Web.Http.dll
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja\eProdaja_UI\bin\Debug\EntityFramework.dll
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja\eProdaja_UI\bin\Debug\System.Web.Http.WebHost.dll
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja\eProdaja_UI\bin\Debug\eProdaja_API.pdb
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja\eProdaja_UI\bin\Debug\Newtonsoft.Json.xml
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja\eProdaja_UI\bin\Debug\System.Net.Http.Formatting.xml
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja\eProdaja_UI\bin\Debug\System.Web.Http.xml
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja\eProdaja_UI\bin\Debug\EntityFramework.xml
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja\eProdaja_UI\bin\Debug\System.Web.Http.WebHost.xml
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja\eProdaja_UI\obj\Debug\eProdaja_UI.csprojResolveAssemblyReference.cache
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja\eProdaja_UI\obj\Debug\eProdaja_UI.LoginForm.resources
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja\eProdaja_UI\obj\Debug\eProdaja_UI.MainForm.resources
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja\eProdaja_UI\obj\Debug\eProdaja_UI.Users.IndexForm.resources
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja\eProdaja_UI\obj\Debug\eProdaja_UI.Users.AddForm.resources
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja\eProdaja_UI\obj\Debug\eProdaja_UI.Properties.Resources.resources
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja\eProdaja_UI\obj\Debug\eProdaja_UI.csproj.GenerateResource.Cache
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja_v2_postavka\eProdaja_UI\bin\Debug\eProdaja_UI.exe.config
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja_v2_postavka\eProdaja_UI\obj\Debug\eProdaja_UI.exe
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja_v2_postavka\eProdaja_UI\obj\Debug\eProdaja_UI.pdb
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja_v2_postavka\eProdaja_UI\bin\Debug\eProdaja_UI.exe
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja_v2_postavka\eProdaja_UI\bin\Debug\eProdaja_UI.pdb
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja_v2_postavka\eProdaja_UI\bin\Debug\eProdaja_API.dll
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja_v2_postavka\eProdaja_UI\bin\Debug\Newtonsoft.Json.dll
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja_v2_postavka\eProdaja_UI\bin\Debug\System.Net.Http.Formatting.dll
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja_v2_postavka\eProdaja_UI\bin\Debug\System.Web.Http.dll
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja_v2_postavka\eProdaja_UI\bin\Debug\EntityFramework.dll
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja_v2_postavka\eProdaja_UI\bin\Debug\System.Web.Http.WebHost.dll
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja_v2_postavka\eProdaja_UI\bin\Debug\eProdaja_API.pdb
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja_v2_postavka\eProdaja_UI\bin\Debug\Newtonsoft.Json.xml
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja_v2_postavka\eProdaja_UI\bin\Debug\System.Net.Http.Formatting.xml
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja_v2_postavka\eProdaja_UI\bin\Debug\System.Web.Http.xml
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja_v2_postavka\eProdaja_UI\bin\Debug\EntityFramework.xml
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja_v2_postavka\eProdaja_UI\bin\Debug\System.Web.Http.WebHost.xml
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja_v2_postavka\eProdaja_UI\obj\Debug\eProdaja_UI.csprojResolveAssemblyReference.cache
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja_v2_postavka\eProdaja_UI\obj\Debug\eProdaja_UI.LoginForm.resources
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja_v2_postavka\eProdaja_UI\obj\Debug\eProdaja_UI.MainForm.resources
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja_v2_postavka\eProdaja_UI\obj\Debug\eProdaja_UI.Users.IndexForm.resources
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja_v2_postavka\eProdaja_UI\obj\Debug\eProdaja_UI.Users.AddForm.resources
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja_v2_postavka\eProdaja_UI\obj\Debug\eProdaja_UI.Properties.Resources.resources
+E:\FIT Nastava\2014_2015\PeP 2014_5\Vježbe\Vjezbe 3\eProdaja_v2_postavka\eProdaja_UI\obj\Debug\eProdaja_UI.csproj.GenerateResource.Cache
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_postavka\eProdaja_UI\bin\Debug\eProdaja_UI.exe.config
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_postavka\eProdaja_UI\bin\Debug\eProdaja_UI.exe
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_postavka\eProdaja_UI\bin\Debug\eProdaja_UI.pdb
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_postavka\eProdaja_UI\bin\Debug\eProdaja_API.dll
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_postavka\eProdaja_UI\bin\Debug\Newtonsoft.Json.dll
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_postavka\eProdaja_UI\bin\Debug\System.Net.Http.Formatting.dll
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_postavka\eProdaja_UI\bin\Debug\System.Web.Http.dll
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_postavka\eProdaja_UI\bin\Debug\EntityFramework.dll
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_postavka\eProdaja_UI\bin\Debug\System.Web.Http.WebHost.dll
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_postavka\eProdaja_UI\bin\Debug\eProdaja_API.pdb
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_postavka\eProdaja_UI\bin\Debug\eProdaja_API.dll.config
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_postavka\eProdaja_UI\bin\Debug\Newtonsoft.Json.xml
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_postavka\eProdaja_UI\bin\Debug\System.Net.Http.Formatting.xml
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_postavka\eProdaja_UI\bin\Debug\System.Web.Http.xml
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_postavka\eProdaja_UI\bin\Debug\EntityFramework.xml
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_postavka\eProdaja_UI\bin\Debug\System.Web.Http.WebHost.xml
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_postavka\eProdaja_UI\obj\Debug\eProdaja_UI.csprojResolveAssemblyReference.cache
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_postavka\eProdaja_UI\obj\Debug\eProdaja_UI.LoginForm.resources
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_postavka\eProdaja_UI\obj\Debug\eProdaja_UI.Users.IndexForm.resources
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_postavka\eProdaja_UI\obj\Debug\eProdaja_UI.Users.AddForm.resources
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_postavka\eProdaja_UI\obj\Debug\eProdaja_UI.Properties.Resources.resources
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_postavka\eProdaja_UI\obj\Debug\eProdaja_UI.csproj.GenerateResource.Cache
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_postavka\eProdaja_UI\obj\Debug\eProdaja_UI.exe
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_postavka\eProdaja_UI\obj\Debug\eProdaja_UI.pdb
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\bin\Debug\eProdaja_UI.exe.config
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\bin\Debug\eProdaja_UI.exe
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\bin\Debug\eProdaja_UI.pdb
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\bin\Debug\eProdaja_API.dll
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\bin\Debug\Newtonsoft.Json.dll
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\bin\Debug\System.Net.Http.Formatting.dll
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\bin\Debug\System.Web.Http.dll
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\bin\Debug\EntityFramework.dll
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\bin\Debug\System.Web.Http.WebHost.dll
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\bin\Debug\eProdaja_API.pdb
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\bin\Debug\eProdaja_API.dll.config
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\bin\Debug\Newtonsoft.Json.xml
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\bin\Debug\System.Net.Http.Formatting.xml
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\bin\Debug\System.Web.Http.xml
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\bin\Debug\EntityFramework.xml
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\bin\Debug\System.Web.Http.WebHost.xml
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.csprojResolveAssemblyReference.cache
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.LoginForm.resources
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.MainForm.resources
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.Users.IndexForm.resources
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.Users.AddForm.resources
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.Properties.Resources.resources
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.csproj.GenerateResource.Cache
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.exe
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.pdb
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.Users.EditForm.resources
+D:\FIT Nastava\2016_2017\Ljetni semestar\RS II - 2016_7\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.Messages.resources
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\bin\Debug\eProdaja_UI.exe.config
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\bin\Debug\eProdaja_UI.exe
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\bin\Debug\eProdaja_UI.pdb
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\bin\Debug\eProdaja_API.dll
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\bin\Debug\Newtonsoft.Json.dll
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\bin\Debug\System.Net.Http.Formatting.dll
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\bin\Debug\System.Web.Http.dll
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\bin\Debug\EntityFramework.dll
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\bin\Debug\System.Web.Http.WebHost.dll
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\bin\Debug\eProdaja_API.pdb
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\bin\Debug\eProdaja_API.dll.config
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\bin\Debug\Newtonsoft.Json.xml
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\bin\Debug\System.Net.Http.Formatting.xml
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\bin\Debug\System.Web.Http.xml
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\bin\Debug\EntityFramework.xml
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\bin\Debug\System.Web.Http.WebHost.xml
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.csprojResolveAssemblyReference.cache
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.LoginForm.resources
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.MainForm.resources
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.Messages.resources
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.Users.EditForm.resources
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.Users.IndexForm.resources
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.Users.AddForm.resources
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.Properties.Resources.resources
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.csproj.GenerateResource.Cache
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.csproj.CoreCompileInputs.cache
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.exe
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 4\eProdaja_v4_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.pdb
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 5\eProdaja_v5_rjesenje\eProdaja_UI\bin\Debug\eProdaja_UI.exe.config
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 5\eProdaja_v5_rjesenje\eProdaja_UI\bin\Debug\eProdaja_UI.exe
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 5\eProdaja_v5_rjesenje\eProdaja_UI\bin\Debug\eProdaja_UI.pdb
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 5\eProdaja_v5_rjesenje\eProdaja_UI\bin\Debug\eProdaja_API.dll
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 5\eProdaja_v5_rjesenje\eProdaja_UI\bin\Debug\Newtonsoft.Json.dll
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 5\eProdaja_v5_rjesenje\eProdaja_UI\bin\Debug\System.Net.Http.Formatting.dll
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 5\eProdaja_v5_rjesenje\eProdaja_UI\bin\Debug\System.Web.Http.dll
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 5\eProdaja_v5_rjesenje\eProdaja_UI\bin\Debug\EntityFramework.dll
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 5\eProdaja_v5_rjesenje\eProdaja_UI\bin\Debug\System.Web.Http.WebHost.dll
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 5\eProdaja_v5_rjesenje\eProdaja_UI\bin\Debug\eProdaja_API.pdb
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 5\eProdaja_v5_rjesenje\eProdaja_UI\bin\Debug\eProdaja_API.dll.config
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 5\eProdaja_v5_rjesenje\eProdaja_UI\bin\Debug\Newtonsoft.Json.xml
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 5\eProdaja_v5_rjesenje\eProdaja_UI\bin\Debug\System.Net.Http.Formatting.xml
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 5\eProdaja_v5_rjesenje\eProdaja_UI\bin\Debug\System.Web.Http.xml
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 5\eProdaja_v5_rjesenje\eProdaja_UI\bin\Debug\EntityFramework.xml
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 5\eProdaja_v5_rjesenje\eProdaja_UI\bin\Debug\System.Web.Http.WebHost.xml
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 5\eProdaja_v5_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.csprojResolveAssemblyReference.cache
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 5\eProdaja_v5_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.LoginForm.resources
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 5\eProdaja_v5_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.MainForm.resources
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 5\eProdaja_v5_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.Messages.resources
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 5\eProdaja_v5_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.Users.EditForm.resources
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 5\eProdaja_v5_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.Users.IndexForm.resources
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 5\eProdaja_v5_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.Users.AddForm.resources
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 5\eProdaja_v5_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.Properties.Resources.resources
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 5\eProdaja_v5_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.csproj.GenerateResource.cache
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 5\eProdaja_v5_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.csproj.CoreCompileInputs.cache
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 5\eProdaja_v5_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.csproj.CopyComplete
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 5\eProdaja_v5_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.exe
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 5\eProdaja_v5_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.pdb
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 6\eProdaja_v6_rjesenje\eProdaja_UI\bin\Debug\eProdaja_UI.exe.config
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 6\eProdaja_v6_rjesenje\eProdaja_UI\bin\Debug\eProdaja_UI.exe
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 6\eProdaja_v6_rjesenje\eProdaja_UI\bin\Debug\eProdaja_UI.pdb
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 6\eProdaja_v6_rjesenje\eProdaja_UI\bin\Debug\eProdaja_API.dll
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 6\eProdaja_v6_rjesenje\eProdaja_UI\bin\Debug\Newtonsoft.Json.dll
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 6\eProdaja_v6_rjesenje\eProdaja_UI\bin\Debug\System.Net.Http.Formatting.dll
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 6\eProdaja_v6_rjesenje\eProdaja_UI\bin\Debug\System.Web.Http.dll
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 6\eProdaja_v6_rjesenje\eProdaja_UI\bin\Debug\EntityFramework.dll
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 6\eProdaja_v6_rjesenje\eProdaja_UI\bin\Debug\System.Web.Http.WebHost.dll
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 6\eProdaja_v6_rjesenje\eProdaja_UI\bin\Debug\eProdaja_API.pdb
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 6\eProdaja_v6_rjesenje\eProdaja_UI\bin\Debug\eProdaja_API.dll.config
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 6\eProdaja_v6_rjesenje\eProdaja_UI\bin\Debug\Newtonsoft.Json.xml
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 6\eProdaja_v6_rjesenje\eProdaja_UI\bin\Debug\System.Net.Http.Formatting.xml
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 6\eProdaja_v6_rjesenje\eProdaja_UI\bin\Debug\System.Web.Http.xml
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 6\eProdaja_v6_rjesenje\eProdaja_UI\bin\Debug\EntityFramework.xml
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 6\eProdaja_v6_rjesenje\eProdaja_UI\bin\Debug\System.Web.Http.WebHost.xml
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 6\eProdaja_v6_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.csprojResolveAssemblyReference.cache
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 6\eProdaja_v6_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.LoginForm.resources
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 6\eProdaja_v6_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.MainForm.resources
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 6\eProdaja_v6_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.Messages.resources
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 6\eProdaja_v6_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.Products.AddForm.resources
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 6\eProdaja_v6_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.Users.EditForm.resources
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 6\eProdaja_v6_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.Users.IndexForm.resources
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 6\eProdaja_v6_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.Users.AddForm.resources
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 6\eProdaja_v6_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.Properties.Resources.resources
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 6\eProdaja_v6_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.csproj.GenerateResource.cache
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 6\eProdaja_v6_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.csproj.CoreCompileInputs.cache
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 6\eProdaja_v6_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.csproj.CopyComplete
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 6\eProdaja_v6_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.exe
+D:\FIT Nastava\2017_2018\Ljetni semestar\RS II\Vjezbe 6\eProdaja_v6_rjesenje\eProdaja_UI\obj\Debug\eProdaja_UI.pdb
+C:\Users\user\Desktop\eProdaja\eProdaja_v3\eProdaja_UI\bin\Debug\eProdaja_UI.exe.config
+C:\Users\user\Desktop\eProdaja\eProdaja_v3\eProdaja_UI\bin\Debug\eProdaja_UI.exe
+C:\Users\user\Desktop\eProdaja\eProdaja_v3\eProdaja_UI\bin\Debug\eProdaja_UI.pdb
+C:\Users\user\Desktop\eProdaja\eProdaja_v3\eProdaja_UI\bin\Debug\eProdaja_API.dll
+C:\Users\user\Desktop\eProdaja\eProdaja_v3\eProdaja_UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\eProdaja\eProdaja_v3\eProdaja_UI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\eProdaja\eProdaja_v3\eProdaja_UI\bin\Debug\System.Web.Http.dll
+C:\Users\user\Desktop\eProdaja\eProdaja_v3\eProdaja_UI\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\eProdaja\eProdaja_v3\eProdaja_UI\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\eProdaja\eProdaja_v3\eProdaja_UI\bin\Debug\eProdaja_API.pdb
+C:\Users\user\Desktop\eProdaja\eProdaja_v3\eProdaja_UI\bin\Debug\eProdaja_API.dll.config
+C:\Users\user\Desktop\eProdaja\eProdaja_v3\eProdaja_UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\eProdaja\eProdaja_v3\eProdaja_UI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\eProdaja\eProdaja_v3\eProdaja_UI\bin\Debug\System.Web.Http.xml
+C:\Users\user\Desktop\eProdaja\eProdaja_v3\eProdaja_UI\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\eProdaja\eProdaja_v3\eProdaja_UI\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\user\Desktop\eProdaja\eProdaja_v3\eProdaja_UI\obj\Debug\eProdaja_UI.csprojAssemblyReference.cache
+C:\Users\user\Desktop\eProdaja\eProdaja_v3\eProdaja_UI\obj\Debug\eProdaja_UI.LoginForm.resources
+C:\Users\user\Desktop\eProdaja\eProdaja_v3\eProdaja_UI\obj\Debug\eProdaja_UI.MainForm.resources
+C:\Users\user\Desktop\eProdaja\eProdaja_v3\eProdaja_UI\obj\Debug\eProdaja_UI.Messages.resources
+C:\Users\user\Desktop\eProdaja\eProdaja_v3\eProdaja_UI\obj\Debug\eProdaja_UI.Products.AddForm.resources
+C:\Users\user\Desktop\eProdaja\eProdaja_v3\eProdaja_UI\obj\Debug\eProdaja_UI.Products.PurchaseForm.resources
+C:\Users\user\Desktop\eProdaja\eProdaja_v3\eProdaja_UI\obj\Debug\eProdaja_UI.Users.EditForm.resources
+C:\Users\user\Desktop\eProdaja\eProdaja_v3\eProdaja_UI\obj\Debug\eProdaja_UI.Users.IndexForm.resources
+C:\Users\user\Desktop\eProdaja\eProdaja_v3\eProdaja_UI\obj\Debug\eProdaja_UI.Users.AddForm.resources
+C:\Users\user\Desktop\eProdaja\eProdaja_v3\eProdaja_UI\obj\Debug\eProdaja_UI.Properties.Resources.resources
+C:\Users\user\Desktop\eProdaja\eProdaja_v3\eProdaja_UI\obj\Debug\eProdaja_UI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\eProdaja\eProdaja_v3\eProdaja_UI\obj\Debug\eProdaja_UI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\eProdaja\eProdaja_v3\eProdaja_UI\obj\Debug\eProdaja_UI.csproj.CopyComplete
+C:\Users\user\Desktop\eProdaja\eProdaja_v3\eProdaja_UI\obj\Debug\eProdaja_UI.exe
+C:\Users\user\Desktop\eProdaja\eProdaja_v3\eProdaja_UI\obj\Debug\eProdaja_UI.pdb

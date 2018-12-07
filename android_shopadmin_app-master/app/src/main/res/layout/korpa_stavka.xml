@@ -1,0 +1,60 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="@dimen/padding_small"
+    android:paddingBottom="@dimen/padding_small"
+    android:paddingHorizontal="@dimen/padding_regular">
+
+    <ImageView
+        android:id="@+id/imageStavkaKorpa"
+        android:layout_marginRight="@dimen/margin_regular"
+        android:layout_marginTop="3dp"
+        android:layout_width="@dimen/stavka_img_height"
+        android:layout_height="@dimen/stavka_img_height" />
+
+    <LinearLayout
+        android:id="@+id/stavka_korpa_details"
+        android:layout_toRightOf="@id/imageStavkaKorpa"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_weight="3"
+            android:id="@+id/stavka_korpa_details_left"
+            android:layout_toRightOf="@id/imageStavkaKorpa"
+            android:orientation="vertical"
+            android:weightSum="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:minHeight="72dp">
+            <TextView
+                android:id="@+id/textStavkaKorpaSuper"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/stavka_super_textsize"
+                android:text="Datum"/>
+            <TextView
+                android:id="@+id/textStavkaKorpaNaziv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="First Line"
+                android:textSize="@dimen/stavka_firstline_textsize"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textStavkaKorpaOpis"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Neki tekst..."/>
+        </LinearLayout>
+        <TextView
+            android:id="@+id/textStavkaKorpaCijena"
+            android:text="15 KM"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:gravity="top|right"
+            android:layout_toRightOf="@id/stavka_korpa_details_left"/>
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,17 @@
+﻿- Prvobitno uraditi Rebuild solution-a kako bi se preuzeli potrebni paketi.
+
+- Prvog korisnika možete upisati direktno u bazu podataka ili u aplikaciji pokrenuti
+  glavnu formu prije prijave na sistem (izmijeniti Program.cs) i dodati korisnika.
+
+  Ukoliko korisnika dodajete ručno
+  Podaci za hash i salt lozinke 'test':
+  Salt: 639WGDmDLq55PiFksz8Bzg==
+  Hash: H9J3YRlO1xgrHRnpNvlNkc8xv2Q=
+
+ - Prije testiranja unosa novog korisnika dodati testne podatke u tabelu Uloge.
+
+----------------------------------------------------------------------------------------
+   Zadaci:
+   
+   a) Omogućiti izmjenu uloga korisnika (Users/EditForm).
+   b) Omogućiti deaktivaciju i brisanje korisničkih naloga (Users/IndexForm).

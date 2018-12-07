@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main colors -->
+    <color name="colorPrimary">#CC222B</color>
+    <color name="colorPrimaryDark">#930002</color>
+    <color name="colorPrimaryLight">#ff5c55</color>
+
+    <color name="colorPrimaryAlt">#88FF3300</color>
+
+    <color name="colorSecondary">#2f2f2f</color>
+    <color name="colorSecondaryDark">#050505</color>
+    <color name="colorSecondaryLight">#383838</color>
+
+    <!-- ################################################################################## -->
+
+    <!-- General colors -->
+
+    <color name="colorTypographyLight">#ffffff</color>
+    <color name="colorTypographyDark">#1F1F1F</color>
+    <color name="colorTypographySemiDark">#767676</color>
+
+    <color name="colorBackgroundDark">@color/colorSecondary</color>
+    <color name="colorBackground">#F1F1F1</color>
+    <color name="colorBackgroundLight">#F8F8F8</color>
+    <color name="colorBackgroundWhite">#FFF</color>
+    <color name="colorBackgroundDarkGrey">#fff</color>
+
+    <color name="colorWhite">#fafafa</color>
+    <color name="colorWhitePressed">#f1f1f1</color>
+
+    <!-- Dodatno -->
+    <color name="Transparent">#00ffffff</color>
+</resources>

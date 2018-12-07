@@ -1,0 +1,96 @@
+<resources>
+    <!-- General -->
+    <string name="app_name">eDostava!</string>
+    <string name="app_email">eldar.jahijagic@fit.edu.ba</string>
+    <string name="wrong_credentials">Pogrešan username ili password.</string>
+    <string name="input_podaci_invalid">Molimo provjerite podatke</string>
+    <string name="api_load_ponovo">Refresh</string>
+    <string name="navigation_drawer_open">Otvori navigaciju</string>
+    <string name="navigation_drawer_close">Zatvori navigaciju</string>
+    <string name="title_activity_glavni">GlavniActivity</string>
+    <string name="cijena_double">%1$,.2f KM</string>
+
+    <!-- Transition names -->
+    <string name="transition_restoran_card">restoranCardTransition</string>
+
+    <!-- Login, Registracija -->
+    <string name="ime">Ime</string>
+    <string name="password">Password</string>
+    <string name="prezime">Prezime</string>
+    <string name="login">Login</string>
+    <string name="izaberite_blok">Izaberite blok</string>
+    <string name="registrujte_se">Registrujte se</string>
+    <string name="uspjesna_registracija">Uspješno ste se registrovali</string>
+    <string name="nemate_racun">Nemate račun?</string>
+    <string name="vec_posjedujete_racun">Več posjedujete račun?</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_error_password">Polje Password ne smije biti prazno ili manje od 4 karaktera.</string>
+    <string name="login_error_username">Polje Username ne smije biti prazno ili manje od 4 karaktera.</string>
+    <string name="register_error_username">Polje Username ne smije biti prazno ili manje od 4 karaktera.</string>
+    <string name="register_error_username_taken">Izaberite drugi Username, navedeni već postoji.</string>
+    <string name="register_error_password">Polje Password ne smije biti prazno ili manje od 4 karaktera.</string>
+    <string name="register_error_ime">Polje Ime ne smije biti prazno ili manje od 4 karaktera.</string>
+    <string name="register_error_prezime">Polje Password ne smije biti prazno ili manje od 4 karaktera.</string>
+
+    <!-- Empty lists strings -->
+    <string name="empty_list_omiljeni_restorani">Niste niti jedan restoran dodali u omiljene.</string>
+    <string name="empty_list_hrana">Nema hrane</string>
+    <string name="empty_list_komentari">Budite prvi ko će napisati komentar.</string>
+    <string name="empty_list_korpa">Korpa je prazna. Pregledajte restorane i jelovnike, izaberite i dodajte nešto u korpu!</string>
+
+    <!-- Errors (snackbars) -->
+    <string name="dogodila_se_greska">Dogodila se greška.</string>
+    <string name="dogodila_se_greska_posalji_komentar_ponovo">Pokusajte poslati komentar ponovo</string>
+    <string name="dogodila_se_greska_narudzba">Dogodila s greška, provjerite podatke i pokušajte ponovo.</string>
+    <string name="dogodila_se_greska_provjerite_i_ponovite">Dogodila s greška, provjerite podatke i pokušajte ponovo.</string>
+    <string name="dogodila_se_greska_profil_slika">Dogodila se greška, pokušajte ponovo.</string>
+    <string name="dogodila_se_greska_narudzba_prihvacena">Dogodila se greška, ili je narudžba već prihvaćena.</string>
+
+    <!-- Restorani -->
+    <string name="restoran_stats">%1$d sviđanja - %2$d komentara</string>
+    <string name="restoran_info_kontakt">Kontakt</string>
+    <string name="restoran_info_opis">Restoran opis</string>
+    <string name="restoran_btn_komentar_posalji">Napiši</string>
+    <string name="restoran_input_komentar_error">Komentar ne smije sadržati manje od 5 karaktera.</string>
+
+    <!-- Korpa strings -->
+    <string name="korpa_ukupno_stavki">Ukupno stavki u korpi:</string>
+    <string name="korpa_stavka_kolicina">Kolicina x%1d$</string>
+    <string name="korpa_stavka_restoran">Iz restorana %1s$</string>
+    <string name="korpa_submit">NARUČI</string>
+    <string name="korpa_clearout">Odbaci</string>
+
+    <!-- Narudzba strings -->
+    <string name="narudzba_neispravna_sifra">Neispravna šifra narudžbe.</string>
+    <string name="narudzba_potvrdi_sifru">Potvrdite šifru, da biste izbrisali narudžbu!</string>
+    <string name="narudzba_deleted">Izbrisali ste narudžbu</string>
+
+    <!-- Profil strings -->
+    <string name="profil_username">Username %1s$ </string>
+    <string name="profil_datum_registracije">Datum registracije %1s$ </string>
+    <string name="profil_ukupno_narudzbi">Ukupno narudžbi %1d$ </string>
+    <string name="profil_zadnji_login">Zadnji put logiran %1s$ </string>
+    <string name="profil_delete_account">Izbriši korisnički račun</string>
+    <string name="profil_delete_account_confirm">Da li ste sigurni da želite izbrisati korisnički račun?</string>
+    <string name="profil_delete_account_desc">Trenutne sačuvane preference i korisnički podaci će biti trajno uklonjeni sa sistema, te nećete moći više koristiti aplikaciju eDostava!</string>
+    <string name="profil_delete_account_confirm_btn">Da, Izbriši račun</string>
+    <string name="profil_confirm_delete_cancel">NE</string>
+    <string name="profil_delete_account_success">Uspješno ste izbrisali korisnički račun!</string>
+    <string name="profil_adresa_success">Uspješno ste sačuvali adresu!</string>
+    <string name="profil_slika_izbor">Izaberite postojeću sliku iz galerije ili napravite novu?</string>
+    <string name="profil_slika_galerija">Galerija</string>
+    <string name="profil_slika_kamera">Kamera</string>
+    <string name="profil_slika_changed">Uspješno ste promijenili sliku!</string>
+    <string name="profil_netacna_lozinka">Netačna lozinka!</string>
+    <string name="profil_nova_lozinka_error">Polje ne smije biti prazno, manje od 6 karaktera ili se lozinke ne podudaraju!</string>
+    <string name="profil_nova_lozinka_ponovo_error">Polje ne smije biti prazno, manje od 6 karaktera ili se lozinke ne podudaraju!</string>
+    <string name="profil_lozinka_success">Uspješno ste promijenili lozinku!</string>
+    <string name="profil_error_adresa">Adresa ne smije biti prazna ili manja od 4 karaktera!</string>
+
+    <!-- Licence strings -->
+    <string name="fake_licence_terms">Licencni ugovor</string>
+    <string name="fake_licence_terms_text">Korisnik alikacije eDostava! je dužan isporučiti ispravne korisničke podatke i adresu.   Korisnik pri kreiranju narudžbe garantuje dostavljaču da će preuzeti narudžbu u naznačenom vremenu i platiti naznačeni iznos.</string>
+
+
+</resources>
