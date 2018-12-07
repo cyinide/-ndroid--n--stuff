@@ -1,7 +1,0 @@
-﻿- Prvobitno uraditi Rebuild solution-a kako bi se preuzeli potrebni paketi.
-
-----------------------------------------------------------------------------------------
-   Zadaci:
-   
-   a) Validirati formu za izmjenu podataka o korisnicima, kao i formu za prijavu na sistem.
-   b) Implementirati funkcionalnost demonstrirane klase ExceptionHandler u sklopu ExceptionFilter klase i testirati exception handling na nivou kompletnog kontrolera upotrebom filter atributa.
